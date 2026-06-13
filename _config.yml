@@ -9,11 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : touchID
+title : touchID • Flutter开发者!
 tagline: Site Tagline
 author :
   name : Name Lastname
-  email :ios.7@qq.com
+  email : ios.7@qq.com
   github : touchID
   twitter : username
   feedburner : feedname
